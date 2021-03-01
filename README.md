@@ -21,10 +21,10 @@ In this section we explored 5 high level business questions related to our data:
 
 To answer these questions we walk through many different pandas & matplotlib methods. They include:
 
-Concatenating multiple .csv files together to create a new DataFrame (pd.concat)
-Adding columns
-Parsing cells as strings to make new columns (.str)
-Using the .apply() method
-Using groupby to perform aggregate analysis
-Plotting bar charts and lines graphs to visualize our results
-Labeling our graphs, etc.
+- Concatenating multiple .csv files together to create a new DataFrame (pd.concat)
+- Adding columns
+- Parsing cells as strings to make new columns (.str)
+- Using the .apply() method
+- Using groupby to perform aggregate analysis
+- Plotting bar charts and lines graphs to visualize our results
+- Labeling our graphs, etc.
